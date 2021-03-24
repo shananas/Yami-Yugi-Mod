@@ -1,0 +1,13 @@
+title: Yami-Yugi Mod
+originalAuthor: TomK1004
+description: Yami-Yugi over Luxord
+assets:
+ - name: obj/B_EX150.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/B_EX150.mdlx
+    
+ - name: obj/B_EX150_LV99.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/B_EX150_LV99.mdlx
