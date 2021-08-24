@@ -7,11 +7,11 @@ assets:
  - name: obj/B_EX150.mdlx
    method: copy
    source:
-    - name: obj/B_EX150.mdlx    
+  - name: obj/B_EX150.mdlx    
  - name: obj/B_EX150_LV99.mdlx
    method: copy
    source:
-    - name: obj/B_EX150_LV99.mdlx
+  - name: obj/B_EX150_LV99.mdlx
 - name: obj/M_EX950_CARD.a.fm
   method: copy
   source:
