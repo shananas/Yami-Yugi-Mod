@@ -1,14 +1,14 @@
 title: Yami-Yugi Mod
 originalAuthor: TomK1004
 description: Yami-Yugi over Luxord. Additional changes to UI cards and dice by shananas. Thanks to TomK1004 for the original mod. All credit to him.
-
 assets:
+
 #obj
- - name: obj/B_EX150.mdlx
+- name: obj/B_EX150.mdlx
    method: copy
    source:
   - name: obj/B_EX150.mdlx    
- - name: obj/B_EX150_LV99.mdlx
+- name: obj/B_EX150_LV99.mdlx
    method: copy
    source:
   - name: obj/B_EX150_LV99.mdlx
