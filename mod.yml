@@ -36,6 +36,14 @@ assets:
   method: copy
   source:
   - name: obj/B_EX210_EH.mdlx
+- name: obj/B_EX150.a.fm
+  method: copy
+  source:
+  - name: obj/B_EX150.a.fm
+- name: obj/B_EX150_LV99.a.fm
+  method: copy
+  source:
+  - name: obj/B_EX150_LV99.a.fm
 
 #msn
 - name: msn/jp/EH14_MS103.bar
