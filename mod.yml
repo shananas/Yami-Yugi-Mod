@@ -13,6 +13,7 @@ assets:
   source:
   - name: obj/B_EX150_LV99.mdlx
 - name: obj/M_EX950_CARD.a.fm
+  platform: ps2
   method: copy
   source:
   - name: obj/M_EX950_CARD.a.fm
@@ -21,6 +22,7 @@ assets:
   source:
   - name: obj/M_EX950_CARD.mdlx
 - name: obj/M_EX950_DICE.a.fm
+  platform: ps2
   method: copy
   source:
   - name: obj/M_EX950_DICE.a.fm
@@ -37,10 +39,12 @@ assets:
   source:
   - name: obj/B_EX210_EH.mdlx
 - name: obj/B_EX150.a.fm
+  platform: ps2
   method: copy
   source:
   - name: obj/B_EX150.a.fm
 - name: obj/B_EX150_LV99.a.fm
+  platform: ps2
   method: copy
   source:
   - name: obj/B_EX150_LV99.a.fm
