@@ -126,3 +126,10 @@ assets:
   method: copy
   source:
   - name: remastered/hint.png
+- name: remastered\obj\B_EX150.a.us\voice\battle\us\n_gambler
+  multi:
+    - name: remastered\obj\B_EX150_LV99.a.us\voice\battle\us\n_gambler 
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/n_gambler
