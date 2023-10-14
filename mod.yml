@@ -138,33 +138,6 @@ assets:
   method: copy
   source:
   - name: remastered/n_gambler
-#- name: remastered\obj\B_EX150.a.us\se\obj\se321
-#  multi:
-#    - name: remastered\obj\B_EX150_LV99.a.us\se\obj\se321
-#  platform: pc
-#  method: copy
-#  source:
-#  - name: remastered/se321.scd
-- name: remastered/map/hb26.map/-90.dds
-  platform: pc
-  method: copy
-  source:
-  - name: map/-90.dds
-- name: remastered/map/hb26.map/-91.dds
-  platform: pc
-  method: copy
-  source:
-  - name: map/-91.dds
-- name: remastered/map/hb26.map/-116.dds
-  platform: pc
-  method: copy
-  source:
-  - name: map/-91.dds
-- name: remastered/map/hb26.map/-117.dds
-  platform: pc
-  method: copy
-  source:
-  - name: map/-90.dds
 - name: remastered/map/eh13.map/-33.dds
   platform: pc
   method: copy
@@ -175,3 +148,30 @@ assets:
   method: copy
   source:
   - name: eh.bar
+#- name: remastered\obj\B_EX150.a.us\se\obj\se321
+#  multi:
+#    - name: remastered\obj\B_EX150_LV99.a.us\se\obj\se321
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered/se321.scd
+#- name: remastered/map/hb26.map/-90.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: map/-90.dds
+#- name: remastered/map/hb26.map/-91.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: map/-91.dds
+#- name: remastered/map/hb26.map/-116.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: map/-91.dds
+#- name: remastered/map/hb26.map/-117.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: map/-90.dds
