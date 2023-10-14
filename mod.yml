@@ -1,6 +1,6 @@
 title: Yami-Yugi Mod
 originalAuthor: TomK1004
-description: Yami-Yugi over Luxord. Additional changes to UI cards and dice by shananas. Thanks to TomK1004 for the original mod. All credit to him.
+description: Yami-Yugi over Luxord. Additional changes to UI cards and dice by shananas. Voice, texture, and text changes done by Kangdide. Yu-Gi-Oh Sora image provided by @Kudalyn on Twitter. Thanks to TomK1004 for the original mod. All credit to him.
 assets:
 
 #obj
@@ -116,11 +116,16 @@ assets:
   method: copy
   source:
   - name: remastered/-3.dds
+- name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar0.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Sora1.png
 - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar1.png
   platform: pc
   method: copy
   source:
-  - name: remastered/yugi.png
+  - name: remastered/yugi1.png
 - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar2.png
   platform: pc
   method: copy
@@ -133,3 +138,40 @@ assets:
   method: copy
   source:
   - name: remastered/n_gambler
+#- name: remastered\obj\B_EX150.a.us\se\obj\se321
+#  multi:
+#    - name: remastered\obj\B_EX150_LV99.a.us\se\obj\se321
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered/se321.scd
+- name: remastered/map/hb26.map/-90.dds
+  platform: pc
+  method: copy
+  source:
+  - name: map/-90.dds
+- name: remastered/map/hb26.map/-91.dds
+  platform: pc
+  method: copy
+  source:
+  - name: map/-91.dds
+- name: remastered/map/hb26.map/-116.dds
+  platform: pc
+  method: copy
+  source:
+  - name: map/-91.dds
+- name: remastered/map/hb26.map/-117.dds
+  platform: pc
+  method: copy
+  source:
+  - name: map/-90.dds
+- name: remastered/map/eh13.map/-33.dds
+  platform: pc
+  method: copy
+  source:
+  - name: map/-33.dds
+- name: msg\us\eh.bar
+  platform: pc
+  method: copy
+  source:
+  - name: eh.bar
